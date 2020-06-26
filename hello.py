@@ -1,4 +1,4 @@
-def myFunc():
+def my_func():
     return 1
 
-print(myFunc())
+print(my_func())
